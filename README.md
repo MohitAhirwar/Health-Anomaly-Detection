@@ -7,3 +7,8 @@ python main.py
 
 # Colab links : 
 https://colab.research.google.com/drive/1J4rn1BkbjAfb4kLdgDXx89FXhwUyNkQD
+https://colab.research.google.com/drive/1cPE3Z0QyVqeU_qdgQyd7QuqtxLOWBdIy
+https://colab.research.google.com/drive/1TgAAzPRoR6QeXICixJ4VBagKmQ_BjMsB
+https://colab.research.google.com/drive/1AshzoU1XVZdWEw8yxqbC4ztvmrABKoyg
+https://colab.research.google.com/drive/1qkXaOop5Zh53L6FKEuA5MSpR5vQl3PqE
+https://colab.research.google.com/drive/18Oj0hVq7tOTxlLJrqKYyMP6UFXAg1pXY
