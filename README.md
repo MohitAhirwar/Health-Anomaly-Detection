@@ -3,7 +3,7 @@
 # Instructions to Run the Web App :
 clone the repository
 
-pip install -r requirements.txt
+pip install -r requirements.txt <br />
 python main.py
 
 # Colab links : 
